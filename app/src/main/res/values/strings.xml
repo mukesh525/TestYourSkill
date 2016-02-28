@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Test Your Skill</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Finish</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_test">Test</string>
+	<string name="OK">Yes</string>
+    <string name="Cancel">No</string>
+    <string name="title_activity_results">Results</string>
+
+    <string name="error_timeout">Oops! Your Connection Timed Out</string>
+    <string name="error_auth_failure">Oops! RottenTomatoes Says It Doesn\'t Recognize You</string>
+    <string name="error_network">Oops! RottenTomatoes Server Just Messed Up</string>
+    <string name="error_parser">Oops! Data Received Was An Unreadable Mess</string>
+</resources>
